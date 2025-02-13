@@ -65,6 +65,70 @@ const people: People = {
     message: "Hey long time no see! Hopefully you are doing okay and filled with His pressence!",
     name: "Son Nguyen"
   },
+  "ellen": {
+    message: "May the Lord fills you with His pressence and everlasting love!",
+    name: "Ellen"
+  },
+  "helen": {
+    message: "May you be reminded of how deeply you are loved by your Heavenly Father.",
+    name: "Helen"
+  },
+  "tang": {
+    message: "May your heart is always on fire with Jesus's love!",
+    name: "Tang"
+  },
+  "samantha": {
+    message: "I’ve been thinking about how God works in mysterious ways to bring people together. I’m really glad our paths crossed. Wishing you a Valentine’s Day filled with His love and joy!",
+    name: "Samantha"
+  },
+  "adrinna": {
+    message: "The Lord's love is greater than the tastiest WeetBix I have ever had!",
+    name: "Adrinna"
+  },
+  "best": {
+    message: "May God’s love surround you today and remind you of how precious you are.",
+    name: "Best"
+  },
+  "alicia": {
+    message: "God’s love is the reason we can love others. Thank you for being a vessel of His love.",
+    name: "Alicia"
+  },
+  "jo": {
+    message: "May God’s love fill your heart to overflowing today and always.",
+    name: "Jo"
+  },
+  "jolyn": {
+    message: "God’s love is the heartbeat of this Valentine’s Day. May you feel it in every moment!",
+    name: "Jolyn"
+  },
+  "kee-ren": {
+    message: "You are a blessing to everyone around you! Happy Valentine!",
+    name: "Kee Ren"
+  },
+  "nic-law": {
+    message: "God's love is greater than the tastiest coffee I have ever had!",
+    name: "Nicholas Law"
+  },
+  "matthew-han": {
+    message: "You are a blessing to everyone around you! Happy Valentine!",
+    name: "Matthew Han"
+  },
+  "ken": {
+    message: "God's love is greater than your smash!!!",
+    name: "Ken"
+  },
+  "riana": {
+    message: "May God’s love fill your heart to overflowing today and always.",
+    name: "Riana"
+  },
+  "norman-yap": {
+    message: "God's love is more complex than strands of protein 🧬",
+    name: "Norman Yap"
+  },
+  "adam-wong": {
+    message: "God's love is uncountable unlike minion 🤯",
+    name: "Adam Wong"
+  },
 }
 
 export default async function HomePage({
